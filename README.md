@@ -32,3 +32,4 @@ pip install requests -t /path/to/project-dir
 1. Proper permissions must be given for doing S3 operations.
 This can be done from IAM console (https://console.aws.amazon.com/iam/)
 2. Zip the directory content contained within the directory, not the directory itself.
+3. Bucket name used is steeleyetest
